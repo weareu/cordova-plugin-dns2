@@ -1,8 +1,8 @@
 {
-    "name": "cordova-plugin-dns",
+    "name": "cordova-plugin-dns2",
     "main": "./DNSPlugin.js",
     "cordova": {
-        "id": "cordova-plugin-dns",
+        "id": "cordova-plugin-dns2",
         "serviceName": "DNSPlugin"
     },
     "dependencies": {
