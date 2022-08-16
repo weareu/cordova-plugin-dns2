@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-dns",
+  "version": "1.0.2",
+  "description": "Manually resolve DNS hostnames to IPs for diagnosing network setup.",
+  "cordova": {
+    "id": "cordova-plugin-dns",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/zegeba/cordova-plugin-dns.git"
+  },
+  "keywords": [
+    "dns",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser"
+  ],
+  "author": "Zegeba AS",
+  "license": "Apache 2.0",
+  "homepage": "https://bitbucket.org/zegeba/cordova-plugin-dns#readme"
+}
