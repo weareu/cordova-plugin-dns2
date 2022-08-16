@@ -7,19 +7,19 @@
     "platforms": [
       "android",
       "ios",
-      "browser"
+      "electron"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/zegeba/cordova-plugin-dns.git"
+    "url": "git+https://github.com/weareu/cordova-plugin-dns.git"
   },
   "keywords": [
     "dns",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "cordova-browser"
+    "cordova-electron"
   ],
   "author": "Zegeba AS",
   "license": "Apache 2.0",
