@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-dns",
+  "name": "cordova-plugin-dns2",
   "version": "1.0.3",
   "description": "Manually resolve DNS hostnames to IPs for diagnosing network setup.",
   "cordova": {
