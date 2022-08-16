@@ -10,7 +10,7 @@ configuration.
 To install, simply add to your project as you would any other cordova plugin:
 
 ```
-cordova plugin add cordova-plugin-dns
+cordova plugin add cordova-plugin-dns2
 ```
 
 Once installed, you should be able to use the JavaScript function to resolve

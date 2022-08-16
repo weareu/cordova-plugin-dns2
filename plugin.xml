@@ -8,8 +8,8 @@
     <description>Manually resolve DNS hostnames to IPs for diagnosing network setup.</description>
     <author>Brent Atkinson</author>
     <keywords>dns</keywords>
-    <repo>https://github.com/weareu/cordova-plugin-dns</repo>
-    <issue>https://github.com/weareu/cordova-plugin-dns/issues</issue>
+    <repo>https://github.com/weareu/cordova-plugin-dns2</repo>
+    <issue>https://github.com/weareu/cordova-plugin-dns2/issues</issue>
     <license>MIT</license>
 
     <js-module src="www/dnsplugin.js" name="DNSPlugin">
@@ -39,7 +39,9 @@
         <framework src="CFNetwork.framework" weak="true" />
     </platform>
 
-     <platform name="electron">
-        <framework src="./src/electron" />
+    <platform name="electron">
+        <source-file src="src/electron/DNSPlugin.js" target-dir="src/electron" />
+        <framework src="src/electron" />
     </platform>
+
 </plugin>

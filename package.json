@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Manually resolve DNS hostnames to IPs for diagnosing network setup.",
   "cordova": {
-    "id": "cordova-plugin-dns",
+    "id": "cordova-plugin-dns2",
     "platforms": [
       "android",
       "ios",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weareu/cordova-plugin-dns.git"
+    "url": "git+https://github.com/weareu/cordova-plugin-dns2.git"
   },
   "keywords": [
     "dns",
@@ -23,5 +23,5 @@
   ],
   "author": "Zegeba AS",
   "license": "Apache 2.0",
-  "homepage": "https://github.com/weareu/cordova-plugin-dns#readme"
+  "homepage": "https://github.com/weareu/cordova-plugin-dns2#readme"
 }
