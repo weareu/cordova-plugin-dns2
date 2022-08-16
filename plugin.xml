@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-dns" 
-    version="1.0.2">
+    version="1.0.3">
 
     <name>DNS</name>
     <description>Manually resolve DNS hostnames to IPs for diagnosing network setup.</description>
